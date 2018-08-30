@@ -10,7 +10,7 @@
 ## Objectives
 
 + Use `.then` syntax in place of success callbacks
-+ Wrap async events in a our own promise
++ Wrap async events in our own promise
 
 ## Lesson
 
